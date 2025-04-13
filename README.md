@@ -26,6 +26,11 @@ This interactive Tableau dashboard offers comprehensive insights into Netflix us
 - **Top Genres**  
   Identifies the most popular content genres based on total watch time.
 
+  ### 🖼️ Dashboard Preview
+![Netflix Dashboard Preview](./NETFLIX.png)
+
+🔗 [**View Full Dashboard on Tableau Public**]([https://public.tableau.com/app/profile/yourusername/viz/netflix-dashboard](https://public.tableau.com/views/NetflixDataAnalysis_17443562779550/NETFLIX?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+
 ---
 
 🎯 **Tools Used:**  
